@@ -15,4 +15,6 @@
  * `git push origin BRANCH_NAME` eg : `git push origin samayun`
  
  # contributors
- @toasin1nibir
+ [@samayun](https://github.com/samayun)
+ [@toasin1nibir](https://github.com/toasin1nibir)
+ [@Aduvai1](https://github.com/Aduvai1)
