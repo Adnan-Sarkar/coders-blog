@@ -9,7 +9,10 @@
 	### `git checkout -b BRANCH_NAME` eg `git checkout -b samayun`
 3. ### `git fetch -u main`
 4. 
- `git add .`
- `git commit -m "DevBook"`
- `git fetch && git pull origin main`
- `git push origin BRANCH_NAME` eg : `git push origin samayun`
+ * `git add .`
+ * `git commit -m "DevBook"`
+ * `git fetch && git pull origin main`
+ * `git push origin BRANCH_NAME` eg : `git push origin samayun`
+ 
+ # contributors
+ @toasin1nibir
