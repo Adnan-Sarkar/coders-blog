@@ -1,0 +1,11 @@
+.title{
+    padding: 30px 10px;
+    background: #1e8bff;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.title h3{
+    font-size: 35px;
+}
