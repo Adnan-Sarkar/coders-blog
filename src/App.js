@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./components/Home/Home";
 import NotFound from "./components/NotFound/NotFound";
 import BlogDetails from "./components/BlogDetails/BlogDetails";
+import Signup from "./components/Signup/Signup";
 
 function App() {
     return (
@@ -22,6 +23,9 @@ function App() {
                     </Route>
                     <Route path="/login">
                         <Login />
+                    </Route>
+                    <Route path="/signup">
+                        <Signup />
                     </Route>
                     <Route path="*">
                         <NotFound />
