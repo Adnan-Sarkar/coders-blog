@@ -9,3 +9,9 @@
 .title h3{
     font-size: 35px;
 }
+
+@media only screen and (max-width: 770px) {
+    .title{
+        margin-top: 30px;
+    }
+}
