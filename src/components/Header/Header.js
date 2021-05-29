@@ -23,15 +23,19 @@ const Header = () => {
                                 />
                                 <span className="notification-count"></span>
                             </div>
+
                         </li>
                         <li className="list-3">
                             <div className="profile">
                                 <div className="profile-pic">
                                     <img src={profile} alt="" />
                                 </div>
-                                <div className="profile-name">
-                                    <h5>Adnan</h5>
-                                </div>
+                            <div className="profile-name">
+                                <h5>Adnan</h5>
+                                <ul id="nav-ul" class="dropdown">
+                                    <li id="nav-li"><a id="nav-a" href="">Profile</a></li>
+                                    <li id="nav-li"><a id="nav-a" href="">Log out</a></li>
+                                </ul>
                             </div>
                         </li>
                     </ul>
