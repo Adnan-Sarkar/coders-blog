@@ -29,6 +29,10 @@ const Header = () => {
                             </div>
                             <div className="profile-name">
                                 <h5>Adnan</h5>
+                                <ul id="nav-ul" class="dropdown">
+                                    <li id="nav-li"><a id="nav-a" href="">Profile</a></li>
+                                    <li id="nav-li"><a id="nav-a" href="">Log out</a></li>
+                                </ul>
                             </div>
                         </div>
                     </li>
