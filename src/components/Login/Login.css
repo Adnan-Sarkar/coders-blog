@@ -58,3 +58,36 @@
     visibility: hidden;
     transform: translateY(-35px);
 }
+
+@media only screen and (max-width: 767px) {
+    .login-img {
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .login-form{
+        margin: 0 20px;
+        margin-bottom: 40px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .login-form h2{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 331px) {
+    .login-form h2{
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .login-img {
+        margin-top: 40px;
+    }
+}

@@ -20,3 +20,13 @@
     background: #EFF7FF;
     border-left-color: #007BFF;
 }
+
+@media only screen and (max-width: 770px) {
+    .sidebar {
+        height: 100%;
+    }
+
+    .sidebar-item{
+        font-size: 18px;
+    }
+}
