@@ -1,0 +1,7 @@
+.img-circle {
+  clip-path: circle(50%);
+}
+
+.img-circle:hover {
+  clip-path: none;
+}

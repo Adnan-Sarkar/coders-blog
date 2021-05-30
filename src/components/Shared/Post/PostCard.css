@@ -1,0 +1,23 @@
+.status-form{
+    border-radius: 24px;
+    padding: 20px 25px;
+}
+.status-btn button {
+    border: none;
+    background-color: none;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 5px;
+    text-align: center;
+    background: white;
+}
+.userImg{
+    height: 46px;
+    width: 46px;
+}
+.btn-style button {
+    border: none;
+    background-color: none;
+    padding: 10px;
+    margin-right: 15px;
+}

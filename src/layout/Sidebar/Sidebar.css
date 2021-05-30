@@ -1,0 +1,22 @@
+.sidebar {
+    height: 100vh;
+    background: #fbfbfb;
+}
+
+.sidebar-nav {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+.sidebar-item {
+    display: block;
+    margin: 5px 0;
+    padding: 10px 0;
+    border-left: 2px solid transparent;
+    transition: all .2s;
+}
+.sidebar-item:hover {
+    background: #EFF7FF;
+    border-left-color: #007BFF;
+}
